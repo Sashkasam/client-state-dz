@@ -16,7 +16,7 @@
 
 Форма авторизации представлена разметкой вида:
 
-```html
+
 <div class="signin" id="signin">
     <h2 class="title">Вход</h2>
     <form action="https://students.netoservices.ru/nestjs-backend/auth" id="signin__form">
